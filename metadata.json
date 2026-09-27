@@ -1,0 +1,7 @@
+{
+  "name": "NEXORA AI - One AI. Every Task.",
+  "description": "Next-generation AI super-app platform combining conversational intelligence, deep research, coding studio, website builder, document AI, presentation maker, creative studios, and automation agents.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
